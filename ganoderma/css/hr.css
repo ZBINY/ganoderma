@@ -1,0 +1,201 @@
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.w1600{
+	width: 1600px;
+	display: block;
+	margin:0 auto;
+}
+.all{
+	background: url(../img/bg.png) repeat-y;
+	font-family: "Microsoft yahei";
+}
+.hr{
+	width: 1140px;
+	margin:40px auto 0;
+	padding-bottom: 105px;
+	background: url(../img/hr1.png) no-repeat;
+	overflow: hidden;
+}
+.p1{
+	width: 106px;
+	height: 27px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 27px;
+	text-align: center;
+	background-color: #cb00da;
+	margin-top: 23px;
+	margin-left: 32px;
+}
+.hr .hr-1{
+	width: 1077px;
+	margin:0 auto;
+	background-color: #fff;
+	font-family: "Microsoft yahei";
+}
+.hr-1 dl{
+	margin-left: 28px;
+	padding-top: 14px;
+}
+.hr-1 dd{
+	color: #3b3b3b;
+	font-size: 16px;
+	line-height: 44px;
+	font-weight: bold;
+}
+.hr-1 .hr2{
+	font-size: 13px;
+	line-height: 24px;
+}
+.hr-1 .hre{
+	color: #ef3a05;
+	font-weight:bold;
+	padding-left: 7px;
+	border-left: 4px #ef3a05 solid;
+	margin: 10px 0 10px 0;
+}
+.hr-1 .hr3{
+	font-size: 14px;
+	font-weight: bold;
+    line-height: 66px;
+    margin-top: -11px;
+}
+iframe{
+	float: left;
+}
+.message{
+	width: 1077px;
+	margin:0 auto;
+	background-color: #fff;
+	font-size: 12px;
+	font-family: "Microsoft yahei";
+	padding-left:30px; 
+	padding-right:20px; 
+}
+.message .ms1{
+	border-bottom: 1px #ebebeb dashed;
+}
+.message  img{
+	width: 55px;
+	height: 55px;
+	border-radius: 50%;
+	margin: 30px 10px 30px 0;
+	float: left;
+}
+.message  .mes1{
+	margin: 20px 630px 0px 0;
+	float: left;
+	color: #999999;
+}
+.message .mes2{
+	float: left;
+	color: #3c3c3c;
+	line-height: 23px;
+	margin-right: 100px;
+}
+.message .mes3{
+	float: right;
+}
+.mes3 .e{
+	float: right;
+	width: 12px;
+	height: 10px;
+	background:url(../img/m4.png) no-repeat;
+    margin: 4px 0px 0 5px;
+}
+.page{
+	margin-top: 35px;
+	margin-bottom: 35px;
+	float: right;
+}
+.page li{
+	font-size: 12px;
+	text-align: center;
+	line-height: 25px;
+	float: left;
+	color: #000;
+}
+.page .page1{
+	width: 25px;	
+	background-color: #7b2783;	
+	margin-right: 5px;
+}
+.page1 a{
+	color: #fff;
+}
+.page .page2{
+	width: 25px;
+	background-color: #ebebeb;
+	margin-right: 5px;
+}
+.page2 a,{
+	color: #3c3c3c;
+}
+.page .page3{
+	width: 70px;
+	line-height: 25px;
+	background-color: #ebebeb;
+	margin-right: 5px;
+}
+.page .page-1{
+	font-size: 12px;
+}
+.page input{
+	width: 60px;
+	height: 25px;
+	background-color: #ebebeb;
+	margin: 0 5px;
+	text-align: center;
+}
+.page .page4{
+	width: 45px;	
+	background-color: #7b2783;	
+	margin-left: 5px;
+}
+.page4 a{
+	color: #fff;
+}
+.jian{
+	width: 1071px;
+	margin:0 auto;
+	background-color: #fff;
+	font-size: 12px;
+	font-family: "Microsoft yahei";
+}
+.jian .ja1{
+	width:1017px;
+	margin-top: 30px;
+	padding-left: 27px;
+	padding-right: 27px;
+}
+.jian1{
+	color: #3b3b3b;
+	font-size: 12px;
+	font-family: "Microsoft yahei";
+	width: 662px;
+	margin-top: 30px;
+	margin-bottom: 40px;
+	float: left;
+}
+.jian1-1{
+	text-indent: 25px;
+	line-height: 22px;
+	margin-left: 27px;
+}
+.jian .ja2{
+	float: right;
+	margin-top: 30px;
+	margin-right: 27px;
+}
+.jian .ja3{
+	float: left;
+	margin: 20px 0 20px 27px ;
+}
+.jian .ja4{
+	float: right;
+	margin-top: 20px;
+	margin: 20px 27px  20px 0;
+}

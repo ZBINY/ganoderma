@@ -1,0 +1,40 @@
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.w1600{
+	width: 1600px;
+	margin: 0 auto;
+	display: block;
+}
+.all{
+	height: 733px;
+	background: url(../img/bg.png) no-repeat;
+}
+.speech{
+	width: 1140px;
+	margin:25px auto 56px;
+	position: relative;
+	left: 0;
+	top: 0;
+}
+.speech p{
+	color: white;
+	font-size: 16px;
+	font-family: "Microsoft yahei";
+	text-align: center;
+	line-height: 28px;
+	width: 108px;
+	height: 28px;
+	background-color: #cb00da;
+	position: absolute;
+	left: 28px;
+	top: 30px;
+}
+.speech .spe2{
+	margin-top:-4px;
+}
+.speech .spe3{
+	margin-top: -5px;
+}

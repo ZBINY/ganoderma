@@ -1,0 +1,85 @@
+.clear:after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.w1600{
+	width: 1600px;
+	display: block;
+	margin:0 auto;
+}
+.all1{
+	background: url(../img/lxwm1.png) repeat-y;
+	font-family: "Microsoft yahei";
+	height: 959px;
+}
+.trangle{
+	width: 1292px;
+	height: 855px;
+	background: url(../img/lxwm2.png) no-repeat;
+	margin: 0 auto 50px;
+	overflow: hidden;
+}
+.trangle .p1{
+	width: 106px;
+	height: 27px;
+	color: #fff;
+	font-size: 16px;
+	line-height: 27px;
+	text-align: center;
+	background-color: #cb00da;
+	margin-top: 50px;
+	margin-left: 350px;
+}
+.trangle .tra{
+	width: 550px;
+	padding-left: 20px;
+	background-color: #fff;
+	margin-left: 350px;
+	height: 182px;
+}
+.tra .tra1{
+	font-size: 16px;
+	line-height: 82px;
+	color: #3b3b3b;
+}
+.tra2{
+	float: left;
+	font-size: 14px;
+	color: #666;
+}
+.tra2 .tr1{
+	display: inline-block;
+	width: 14px;
+	height: 14px;
+	background:url(../img/lxwm3.png) 0 0 no-repeat;
+}
+.tra2 .tr3{
+	display: inline-block;
+	margin-left: 60px;
+	width: 13px;
+	height: 20px;
+	background:url(../img/lxwm3.png) -41px 0 no-repeat;
+}
+.tra2 .tr2{
+	display: inline-block;
+	width: 14px;
+	height: 18px;
+	background:url(../img/lxwm3.png) -20px 0 no-repeat;
+}
+.tra2 .tr4{
+	display: inline-block;
+	margin-left: 50px;
+	width: 12px;
+	height: 16px;
+	background:url(../img/lxwm3.png) -64px 0 no-repeat;
+}
+.map{
+	width: 400px;
+	height: 200px;
+	margin-left: 442px;
+	margin-top: 100px;
+}
+iframe{
+	float: left;
+}
